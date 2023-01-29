@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(43, 143, 77);
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: orange;
+}
+a {
+    color: green;
+    text-decoration: none;
+}
+.bigText {
+    font-size: 20px;
+
+}
+#goLeft {
+    margin-left: 20px;
+}
+
+
+ul {
+    list-style: square;
+}
